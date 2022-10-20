@@ -36,7 +36,7 @@ Here:
 			}
 			j--;
 		}
-		_putchar(format[i]);
+		putchar(format[i]);
 		len++;
 		i++;
 	}
