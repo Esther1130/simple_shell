@@ -1,4 +1,4 @@
-#include "shell.h"
+#include "main.h"
 
 /**
  * clear_info - initializes info_t struct
@@ -13,7 +13,7 @@ void clear_info(info_t *info)
 }
 
 /**
- * set_info - initializes info_t struct
+ * set_info  - initializes info_t struct
  * @info: struct address
  * @av: argument vector
  */
